@@ -1,0 +1,96 @@
+body {
+   background-image: url(../pics/Monty%20Hall.jpg);
+   background-position: top;
+   background-size: auto;
+   margin-left: auto;
+   margin-right: auto;
+   width: 100%;
+}
+
+#gameBox {
+   text-align: center;
+}
+
+#playMH {
+   background-color: rgba(38, 222, 159, 0.62);
+   font-size: 300%;
+   font-family: monospace;
+}
+
+#doors {
+   padding-top: 50px;
+   height: 296px;
+}
+
+#door1 {
+   width: 240px;
+   height: 296px;
+   margin-right: 20px;
+   background-color: rgba(230, 78, 22, 0.65);
+   font-family: sans-serif;
+   font-size: 600%;
+   color: rgb(242, 235, 235);
+   background-position: center;
+   background-position: bottom;
+   background-repeat: no-repeat;
+}
+
+#door2 {
+   width: 240px;
+   height: 296px;
+   background-color: rgba(214, 169, 19, 0.65);
+   font-family: sans-serif;
+   font-size: 600%;
+   color: rgb(242, 235, 235);
+   background-position: center;
+   background-position: bottom;
+   background-repeat: no-repeat;
+}
+
+#door3 {
+   width: 240px;
+   height: 296px;
+   margin-left: 20px;
+   background-color: rgba(159, 181, 35, 0.65);
+   font-family: sans-serif;
+   font-size: 600%;
+   color: rgb(242, 235, 235);
+   background-position: center;
+   background-position: bottom;
+   background-repeat: no-repeat;
+}
+
+#final {
+}
+
+#board {
+   background-color: rgba(23, 154, 113, 0.26);
+   font-family: fantasy;
+   font-size: 350%;
+   font-weight: 700;
+   padding-top: 1%;
+   width: 1000px;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+
+<!-- 
+
+#changeOrStay {
+}
+
+#change {
+   background-color: #a0a517;
+   font-size: 200%;
+   font-family: sans-serif;
+}
+
+#stay {
+   background-color: #a0a517;
+   font-size: 200%;
+   font-family: sans-serif;
+}
+
+-->
+
